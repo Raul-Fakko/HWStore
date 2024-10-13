@@ -139,6 +139,6 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
-EMAIL_HOST_USER = 'Your email'
-EMAIL_HOST_PASSWORD = 'Your email password'
+EMAIL_HOST_USER = 'Enter Your Gmail Email Address'
+EMAIL_HOST_PASSWORD = 'Enter Gmail Email Password'
 
